@@ -12,7 +12,7 @@
  * @license		http://www.gnu.org/licenses/gpl.html
  * @link		http://tomatocart.com
  * @since		Version 2.0
- * @filesource  ./admin/system/controllers/account/${nameAndExt}
+ * @filesource  ./admin/system/controllers/${nameAndExt}
  */
 
 defined('BASEPATH') OR exit('No direct script access allowed');
@@ -31,4 +31,4 @@ class ${name?capitalize} extends TOC_Controller {
 }
 
 /* End of file ${nameAndExt} */
-/* Location: ./admin/system/controllers/account/${nameAndExt} */
+/* Location: ./admin/system/controllers/${nameAndExt} */

@@ -47,3 +47,6 @@ class TOC_${name?capitalize} extends TOC_Shipping_Module {
         return $this->quotes;
     }
 }
+
+/* End of file ${nameAndExt} */
+/* Location: ./system/tomatocart/libraries/shipping/${nameAndExt} */
