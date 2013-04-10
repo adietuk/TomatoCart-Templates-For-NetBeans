@@ -94,4 +94,9 @@ class CI_Model {}
  * @property TOC_Xml $xml
  */
 class TOC_Controller {}
+
+/**
+ * @return CI_Controller
+ */
+function get_instance() {}
 ?>
