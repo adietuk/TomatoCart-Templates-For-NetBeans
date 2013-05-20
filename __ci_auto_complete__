@@ -56,7 +56,7 @@ class CI_Model {}
 
 /**
  * @property TOC_Access $access
- * @property TOC_Access $address
+ * @property TOC_Address $address
  * @property TOC_Admin $admin
  * @property TOC_Admin_image $admin_image
  * @property TOC_Cache $cache
