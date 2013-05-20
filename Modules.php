@@ -17,7 +17,7 @@
 
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class ${name?capitalize} extends TOC_Module {
+class Mod_${name?capitalize} extends TOC_Module {
     
     protected $code = '${name}';
     protected $author_name = 'TomatoCart';
