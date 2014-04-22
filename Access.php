@@ -41,8 +41,8 @@ class TOC_Access_${name?capitalize} extends TOC_Access {
         $this->module = '{name}';
         $this->sort_order = 100;
 
-        $this->title = lang('access_configuration_title');
-        $this->description = lang('access_configuration_description');
+        $this->title = lang('access_{name}_title');
+        $this->description = lang('access_{name}_description');
     }
 }
 
